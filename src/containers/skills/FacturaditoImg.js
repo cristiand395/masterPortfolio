@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class FullStackImg extends Component {
+export default class Facturadito extends Component {
   render() {
     const theme = this.props.theme;
     return (
@@ -12,7 +12,7 @@ export default class FullStackImg extends Component {
         height="632.37039"
         viewBox="0 0 1098.75 632.37039"
       >
-        <title>heatmap</title>
+        <title>Facturadito</title>
         <ellipse
           cx="549.375"
           cy="600.77366"
