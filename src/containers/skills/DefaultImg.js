@@ -57,7 +57,7 @@ export default class DefaultImg extends Component {
         <polygon
           points="314.825 325.949 289.281 342.754 251.153 377.131 248.276 372.332 240.209 331.999 242.226 331.999 263.065 293.683 314.825 325.949"
           opacity="0.1"
-          style="isolation:isolate"
+          // style="isolation:isolate"
         />
         <polygon
           points="263.065 289.649 242.226 327.965 230.126 341.41 219.371 344.099 248.276 375.693 289.281 338.721 314.825 321.915 263.065 289.649"
@@ -76,7 +76,7 @@ export default class DefaultImg extends Component {
           height="21.61009"
           transform="translate(-313.1754 254.44578) rotate(-86.18992)"
           fill="#e6e6e6"
-          style="isolation:isolate"
+          // style="isolation:isolate"
         />
         <path
           d="M124.34354,362.13134l26.18282,1.74368-1.74369,26.18282-26.18282-1.74368Zm24.96862,2.80626-23.90605-1.59206-1.59206,23.906,23.90605,1.59206Z"
@@ -90,7 +90,7 @@ export default class DefaultImg extends Component {
           height="21.61009"
           transform="translate(-147.57238 -172.07462) rotate(-12.12675)"
           fill="#e6e6e6"
-          style="isolation:isolate"
+          // style="isolation:isolate"
         />
         <path
           d="M245.27842,276.50957l5.51255,25.65526-25.65526,5.51254-5.51254-25.65526Zm4.15743,24.7795-5.0332-23.42436-23.42437,5.03319,5.03319,23.42438Z"
@@ -104,7 +104,7 @@ export default class DefaultImg extends Component {
           height="21.61009"
           transform="translate(-301.94557 39.64172) rotate(-43.12712)"
           fill="#e6e6e6"
-          style="isolation:isolate"
+          // style="isolation:isolate"
         />
         <path
           d="M253.81456,385.99664,234.663,403.93538l-17.93873-19.15156,19.15156-17.93872Zm-19.09885,16.3261,17.48621-16.37883-16.37884-17.48618-17.48621,16.37884Z"
@@ -127,7 +127,7 @@ export default class DefaultImg extends Component {
         <polygon
           points="777.858 385.015 329.89 385.015 329.89 31.102 777.858 385.015"
           fill="#f2f2f2"
-          style="isolation:isolate"
+          // style="isolation:isolate"
         />
         <circle cx="428.05798" cy="298.22423" r="60.3068" fill="#6c63ff" />
         <path
