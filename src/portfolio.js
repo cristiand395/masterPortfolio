@@ -520,7 +520,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects try to solve real problems and make life easier for me and people, take a look at some of my projects below maaybe you will find something interesting.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -583,7 +583,7 @@ const contactPageData = {
     // profile_image_path: "animated_ashutosh.png",
     profile_image_path: "animated_cristian_davila.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Python, Odoo, ReactJS, Javascript, CSS, HTML, Odoo, PostgreSQL, Linux and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
